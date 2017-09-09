@@ -16,7 +16,7 @@ art deep learning pedestrian detection method even with much lower hardware cost
 
 ## Data
 
-![Image](https://github.com/XDFHY/XDFHY.github.io/blob/master/FHY_logo.JPG)
+![Image](https://github.com/hijeffery/PanoNavi/blob/master/frontpage.png)
 
 Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size = 7.43G. Data was caputred 29frames/s. During training, frames are sampled 30 frames/s. Thus, 1 image ~= 1s.
 
