@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/XDFHY/XDFHY.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pedestrian detection is among the most frequently used preprocessing tasks in many surveillance application fields, from low level
+people counting to high level scene understanding. Even though many approaches perform well at daytime with sufficient illumination,
+pedestrian detection at night is a still a critical and challenging problem for video surveillance systems. To respond to this need, in 
+this paper we provide an affordable solution with a near-infrared stereo network camera as well as a novel three-dimensional foreground
+pedestrian detection model. Specifically, instead of using expensive thermal camera, we build a near-infrared stereo vision system with
+two calibrated network cameras and near-infrared lamps. The core of the system is a novel three-dimensional cube surface model, which is
+able to estimate the dynamic changes of three-dimensional geometric information of the surveillance scene, and to segment and locate 
+foreground pedestrian in real-time. A free update policy for unknown points is designed for model updating, and the extracted shadow of 
+pedestrian is adopted to remove foreground false alarms. To evaluate the performance of the proposed model, the system is deployed in 
+several nighttime surveillance scenes. Experimental results demonstrate that our method is capable of segmenting and detecting nighttime
+pedestrian in real-time under heavy occlusion. In addition, the qualitative and quantitative comparison results show that our work 
+outperforms classical background subtraction approaches and recent RGB-D method, and achieves comparable performance with state-of-the-
+art deep learning pedestrian detection method even with much lower hardware cost.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data
 
-### Markdown
+Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size = 7.43G. Data was caputred 29frames/s. During training, frames are sampled 30 frames/s. Thus, 1 image ~= 1s.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Performance
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Demo video for navigation within campus. Demo video is made with 15fps, ~= 15x faster than the original video.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XDFHY/XDFHY.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+## Reference
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
