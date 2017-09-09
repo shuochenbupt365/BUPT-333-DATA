@@ -22,7 +22,8 @@ Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size =
 ## Performance
 
 
-Demo video for navigation within campus. Demo video is made with 15fps, ~= 15x faster than the original video.
+
+Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here]().
 
 ## Reference
 
