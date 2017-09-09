@@ -16,15 +16,13 @@ art deep learning pedestrian detection method even with much lower hardware cost
 
 ## Data
 
-![Image](凤凰眼视觉.png)
-![Image](凤凰眼视觉.png)
-
 Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size = 7.43G. Data was caputred 29frames/s. During training, frames are sampled 30 frames/s. Thus, 1 image ~= 1s.
 
 
 ## Performance
 
 ![Image](https://github.com/XDFHY/XDFHY.github.io/blob/master/%E5%87%A4%E5%87%B0%E7%9C%BClogo.JPG)
+![Image](凤凰眼视觉.png)
 
 Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://pan.baidu.com/s/1pLkc80F).
 
