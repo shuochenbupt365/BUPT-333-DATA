@@ -27,4 +27,4 @@ Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensio
 
 ## Reference
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Li, J.; Zhang, F.; Wei, L.; Yang, T.; Lu, Z. Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model.
