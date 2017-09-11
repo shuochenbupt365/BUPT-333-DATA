@@ -24,5 +24,5 @@ Dataset can be downloaded [here](https://pan.baidu.com/s/1cB7C7c), or here. Tota
 
 ![Image](logo.png)
 
-Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://pan.baidu.com/s/1pLkc80F).
+Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://pan.baidu.com/s/1pLkc80F) or [here](http://v.youku.com/v_show/id_XMzAxODE1MTY2MA==.html?spm=a2hzp.8244740.0.0).
 
