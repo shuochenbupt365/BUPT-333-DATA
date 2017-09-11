@@ -20,12 +20,9 @@ art deep learning pedestrian detection method even with much lower hardware cost
 
 Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size = 7.43G. 
 
-## Performance
+## Demo
 
 ![Image](logo.png)
 
 Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://pan.baidu.com/s/1pLkc80F).
 
-## Reference
-
-Li, J.; Zhang, F.; Wei, L.; Yang, T.; Lu, Z. Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model.
