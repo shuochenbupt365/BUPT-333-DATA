@@ -18,11 +18,11 @@ art deep learning pedestrian detection method even with much lower hardware cost
 
 ![Image](datasetnighttime.png)
 
-Dataset can be downloaded [here](https://pan.baidu.com/s/1cB7C7c), or here. Total in size = 12.5G. 
+Dataset can be downloaded [here](https://pan.baidu.com/s/1cB7C7c), or here. Total in size = 2.14G. Data was caputred 29frames/s,and the resolution of each frame is 640*480.Each frame has been calibrated, can be directly binocular stereo matching.
 
 ## Demo
 
 ![Image](logo.png)
 
-Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://pan.baidu.com/s/1pLkc80F) or [here](http://v.youku.com/v_show/id_XMzAxODE1MTY2MA==.html?spm=a2hzp.8244740.0.0).
+Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here]() or [here](http://v.youku.com/v_show/id_XMzAxODE1MTY2MA==.html?spm=a2hzp.8244740.0.0).
 
