@@ -14,7 +14,7 @@ pedestrian in real-time under heavy occlusion. In addition, the qualitative and 
 outperforms classical background subtraction approaches and recent RGB-D method, and achieves comparable performance with state-of-the-
 art deep learning pedestrian detection method even with much lower hardware cost.
 
-## Data
+## Dataset
 
 ![Image](dataset.png)
 
