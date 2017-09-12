@@ -18,7 +18,7 @@ art deep learning pedestrian detection method even with much lower hardware cost
 
 ![Image](datasetnighttime.png)
 
-Dataset can be downloaded [here](https://pan.baidu.com/s/1cB7C7c), or here. Total in size = 2.14G. Data was caputred 29frames/s,and the resolution of each frame is 640*480.Each frame has been calibrated, can be directly binocular stereo matching.
+Dataset can be downloaded [here](https://pan.baidu.com/s/1cB7C7c), or here. Total in size = 2.14G. Data was caputred 29frames/s, and the resolution of each frame is 640*480. Each frame has been calibrated, can be directly binocular stereo matching.
 
 ## Demo
 
