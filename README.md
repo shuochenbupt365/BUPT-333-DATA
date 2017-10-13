@@ -14,3 +14,7 @@ Dataset can be downloaded [here](https://pan.baidu.com/s/1mhLMIoS). Total in siz
 
 Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://pan.baidu.com/s/1mhLMIoS).
 
+## Reference
+
+1. Jing, L.; Fangbing, Z.; Lisong, W.; Tao, Y. Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model. 
+Sensors, 2017.
