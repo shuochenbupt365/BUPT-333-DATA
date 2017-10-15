@@ -16,5 +16,5 @@ Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensio
 
 ## Reference
 
-1. Jing, L.; Fangbing, Z.; Lisong, W.; Tao, Y. Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model. 
+1. Jing, L.; Fangbing, Z.; Lisong, W.; Tao, Y. Nighttime Foreground Pedestrian Detection based on Three-dimensional Voxel Surface Model. 
 Sensors, 2017.
