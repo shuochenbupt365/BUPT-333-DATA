@@ -11,7 +11,7 @@ Dataset can be downloaded [here](https://pan.baidu.com/s/1Q9HXOt_k_wPsNkPPyLBssw
 
 ## Demo
 
-![Image](Logo2.png)
+![Image](Logo.png)
 
 Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](https://youtu.be/OdH7ffg_egc).
 
