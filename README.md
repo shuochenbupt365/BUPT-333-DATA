@@ -7,12 +7,12 @@ With the rapid development of unmanned aerial vehicle (UAV), UAV-based intellige
 
 ![Image](Udataset.png)
 
-Dataset can be downloaded [here](https://pan.baidu.com/s/1Q9HXOt_k_wPsNkPPyLBssw). Total in size = 48.05G. Data was caputred 29frames/s, and the resolution of each frame is 1280*960. 
+Dataset can be downloaded [here](https://pan.baidu.com/s/1PBhft5-qz-xYo9UJW6-csQ), extraction code：uv9u. Total in size = 48.05G. Data was caputred 29frames/s, and the resolution of each frame is 1280*960. 
 
 ## Demo
 
 ![Image](Logo1.png)
 
-Demo video for An Adaptive Framework for Multi-Vehicles Ground Speed Estimation in Airborne Videos can be download [here](https://youtu.be/OdH7ffg_egc).
+Demo video for An Adaptive Framework for Multi-Vehicles Ground Speed Estimation in Airborne Videos can be download [here]https://pan.baidu.com/s/1rL0J8Nkp8JQyscV3yNg4lw), extraction code：jiav.
 
 
