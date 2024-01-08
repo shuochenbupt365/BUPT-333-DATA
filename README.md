@@ -11,12 +11,7 @@ Dataset can be downloaded on Baidu Cloud Disk [here](https://pan.baidu.com/s/1su
 
 ## Demo
 
-<video controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-![Video](video.mp4)
+[![Image](Udataset.jpg)](video.mp4)
 
 Demo video for An Adaptive Framework for Multi-Vehicles Ground Speed Estimation in Airborne Videos can be download on Baidu Cloud Disk [here](https://pan.baidu.com/s/17unt442tvtELksAGw7GOHQ), Baidu Cloud extraction code：**zj49**.
 
